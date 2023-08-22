@@ -1,0 +1,26 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width:1024px;
+    background-color: grey;
+
+    background-color: #9b3a27;
+    background-image: linear-gradient(0deg, #9b3a27 0%, #3f5f4b 50%, #3b4044 100%);
+}
+h1 {
+    font-size: 40px;
+}
+.pad {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.para {
+    font-size: 20px;
+}
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:azure;
+}
+a {
+    color: aliceblue;
+}
